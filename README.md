@@ -14,4 +14,4 @@
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Hoangvu Ong but I also go by Devin. I'm a passionate software developer. I love creating things out of nothing (aside from computation!). 
-- 📫 How to reach me: <a>LinkedIn</a>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hoangvu-ongdevin/)
