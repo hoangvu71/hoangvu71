@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋:fish:
 
 <!--
 **hoangvu71/hoangvu71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Hoangvu Ong but I also go by Devin. I'm a passionate software developer. I love creating things out of nothing (aside from computation!). 
+Skills:
+  React, Redux, Express, Computer Science
+  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hoangvu-ongdevin/)
